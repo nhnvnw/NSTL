@@ -1,15 +1,15 @@
 /*********************************************
 * NSTL - Non-Standard Template Library.      *
       Containers -Vector core.
-* @Author: czfshine                           
-* @Date: 2017-08-10 09:52:38 
+* @Author: czfshine
+* @Date: 2017-08-10 09:52:38
 */
 
 #include "nstl_vals.h"
 
 IN_NSTL
 
-template <class T>
+template <typename T>
 class Vector{
 
 public:
